@@ -1,0 +1,123 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*========ranga==========*/
+.tab_content {
+    background-color: #F5F5F5;
+    margin: 0;
+    padding: 10px;
+   
+}
+.clientsummaryactions {
+    float:right;
+    margin: -2px 0;
+    padding:4px 15px;
+    border:1px solid #ccc;
+    background-color:#fff !important;
+    font-size:11px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+}
+.box_link {
+	font-size:12px;
+	color:#000;
+}
+.box_link:hover {
+	font-size:12px;
+	color:#000;
+	text-decoration:underline;
+}
+
+
+
+
+
+
+/* --------------------------------------------------------------
+   TEXT COLORS
+-------------------------------------------------------------- */
+
+.textblack {
+	color: #000000;
+}
+.textblue {
+    color: #224488;
+}
+.textgreen {
+	color: #779500;
+}
+.textgrey {
+	color: #888888;
+}
+.textgold {
+    color: #ffbb55;
+}
+.textorange {
+	color: #ff6600;
+}
+.textred {
+	color: #cc0000;
+}
+
+
+/* --------------------------------------------------------------
+   CLIENT SUMMARY PAGE
+-------------------------------------------------------------- */
+
+.clientssummarybox {
+    background-color: #efefef;
+    padding: 10px;
+    margin-bottom: 4px;
+}
+.clientssummarybox .title {
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 14px;
+    color: #000;
+}
+.clientssummarybox ul {
+    list-style-type: none;
+    margin: 10px 0 0 0;
+}
+.clientssummarybox ul li {
+    margin: 0 0 2px 20px;
+}
+table.clientssummarystats {
+    width: 100%;
+}
+table.clientssummarystats td {
+    background-color: #ffffff;
+    font-size: 11px;
+    padding-left: 4px;
+}
+table.clientssummarystats tr.altrow td {
+    background-color: #f6f6f6;
+    padding-left: 4px;
+}
+.clientsummaryactions {
+    float:right;
+    margin: -2px 0;
+    padding:4px 15px;
+    border:1px solid #ccc;
+    background-color:#fff;
+    font-size:14px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+}
+
+table#nobordertable{
+    border: 0px;
+    background-color:none;
+} 
+
+table#nobordertable tr,table#nobordertable td{
+    border: 0px;
+    background-color:none;
+} 
+
+
